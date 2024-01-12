@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/week_schedule"
+        android:icon="@drawable/ic_item1"
+        android:title="@string/week_schedule"
+        android:orderInCategory="1"/>
+
+    <item
+        android:id="@+id/today_schedule"
+        android:icon="@drawable/ic_item2"
+        android:title="@string/today_schedule"
+        android:orderInCategory="2"/>
+
+</menu>

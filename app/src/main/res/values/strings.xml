@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Расписание</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Пусто</string>
+    <string name="week_schedule">Неделя</string>
+    <string name="today_schedule">Сегодня</string>
+</resources>
